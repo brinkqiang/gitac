@@ -39,15 +39,8 @@ export VOLCENGINE_API_KEY=<YOUR_API_KEY>
 
 ## 输出示例
 
-```
-本次修改如下:
-1. 添加用户登录验证功能
-2. 优化数据库查询性能
+![Mobile Preview](/images/gitac_use.png)
 
-The changes in this update are:
-1. Added user authentication feature
-2. Optimized database query performance
-```
 
 ## 使用注意事项
 
