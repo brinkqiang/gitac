@@ -9,13 +9,13 @@
 ### 常用选项
 ```bash
 # 使用火山引擎配置（需设置环境变量VOLCENGINE_API_KEY）
-./gitac --config_name=volcengine-deepseek-r1
+gitac --config_name=volcengine-deepseek-r1
 
 # 自定义模型端点
-./gitac --base_url=https://api.deepseek.com/v1 --model=deepseek-chat --api_key=<sk-xxxxxxx> --has_confirm=true
+gitac --base_url=https://api.deepseek.com/v1 --model=deepseek-chat --api_key=<sk-xxxxxxx> --has_confirm=true
 
 # 其他参数 --help查看
-./gitac --help
+gitac --help
 ```
 
 ### 火山引擎配置
@@ -26,7 +26,7 @@ setx VOLCENGINE_API_KEY "<YOUR_API_KEY>" /m
 ```
 3. 运行程序：
 ```bash
-./gitac --config_name=volcengine-deepseek-r1
+gitac --config_name=volcengine-deepseek-r1
 ```
 
 ## 完整参数
