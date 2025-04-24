@@ -21,8 +21,8 @@
 ### 火山引擎配置
 1. 前往[火山引擎控制台](https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey)申请API Key
 2. 设置环境变量：
-```bash
-export VOLCENGINE_API_KEY=<YOUR_API_KEY>
+```cmd
+setx VOLCENGINE_API_KEY "<YOUR_API_KEY>" /m
 ```
 3. 运行程序：
 ```bash
