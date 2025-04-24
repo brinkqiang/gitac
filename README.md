@@ -1,5 +1,7 @@
 # GitAutoCommit(gitac) 命令行工具
 
+![Mobile Preview](/images/gitac.png)
+
 自动化生成标准Git提交说明的中英双语助手，基于代码变更分析。
 
 ## 命令行参数
