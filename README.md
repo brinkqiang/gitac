@@ -4,6 +4,10 @@
 
 自动化生成标准Git提交说明的中英双语助手，基于代码变更分析。
 
+## 文档
+
+- [deepwiki-gitac](https://deepwiki.com/brinkqiang/gitac)
+
 ## 命令行参数
 
 ### 常用选项
